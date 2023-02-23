@@ -43,12 +43,6 @@ var APP_DATA = {
           title: "Coleção de inverno",
           text: "Venha comprar em nossa loja ou visite nosso site:<div><br></div><div><div><a href='https://www.canelantricot.com.br'>https://www.canelantricot.com.br</a><br></div></div>",
         },
-        {
-          yaw: -1.5687783456781084,
-          pitch: -0.09141871575010185,
-          title: "Title",
-          text: "Text",
-        },
       ],
     },
     {
